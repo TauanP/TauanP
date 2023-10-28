@@ -1,5 +1,7 @@
 ## Oiii! Eu sou Tauan Pereira, sou estudante de conteúdos de programação e tecnologia!
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TauanP&show_icons=true&theme=dracula)
+
 💻 Atualmente, estou focado no desenvolvimento de back-end e estou apaixonado por criar sistemas. Minha jornada começou com um breve conhecimento em tecnologias front-end, incluindo HTML, JavaScript e CSS, o que me proporcionou uma compreensão sólida da experiência do usuário.
 
 🌐 Agora, estou imerso no mundo do back-end, onde estou aprimorando minhas habilidades em linguagens como C# e ferramentas para construir servidores confiáveis e escaláveis. Estou animado com os desafios de lidar com a lógica de negócios, bancos de dados e segurança, e estou constantemente aprendendo e crescendo.
@@ -12,7 +14,6 @@
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TauanP&show_icons=true&theme=dracula)
 
 
 <div style="display: inline_block"><br>
